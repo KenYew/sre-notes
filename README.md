@@ -1,4 +1,4 @@
-<img src="resources/google-sre.png" width="750px"/><br/>
+<img src="https://drive.google.com/uc?id=1TlhLaQJr4JDd2vvJjRcbBfFIAm-i-BmS" width="750px"/><br/>
 
 # **🧑‍💻 Site Reliability Engineering**
 Preparation kit for site reliability engineering interview questions at FAANG.
